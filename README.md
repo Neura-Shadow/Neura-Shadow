@@ -64,6 +64,6 @@ from model training to real-world deployment.
 
 ## 📫 How To Reach Me:
 
-- 📧 Email: [zongxinlu43@gmail.com](mailto:zongxinlu43@gmail.com)  
+- 📧 Email: [My @gmail.com](mailto:zongxinlu43@gmail.com)  
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ling-joker-541476233/)  
 - 💼 104: [My 104 Profile](https://pda.104.com.tw/profile/edit?vno=75ist35wq)  
