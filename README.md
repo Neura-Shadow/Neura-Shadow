@@ -1,6 +1,6 @@
 # Hey There 👋
 
-Hi, I'm **Your Name**, a passionate self-taught developer and researcher.  
+Hi, I'm **Tsung hsin**, a passionate self-taught developer and researcher.  
 My work spans **Software Engineering**, **Deep Learning**, **Reinforcement Learning**,  
 **Deep Reinforcement Learning**, and **Computer Vision**.  
 
@@ -19,7 +19,6 @@ from model training to real-world deployment.
 ## 🚀 Languages And Tools:
 
 <p align="left">
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
@@ -33,8 +32,6 @@ from model training to real-world deployment.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
-</p>
-
 ---
 
 ## 📊 GitHub Stats:
@@ -43,7 +40,6 @@ from model training to real-world deployment.
 <img src="https://github-readme-stats.vercel.app/api?username=Neura-Shadow&show_icons=true&theme=radical" alt="stats"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neura-Shadow&theme=radical" alt="streak"/>
-
 </p>
 
 ---
@@ -60,7 +56,6 @@ from model training to real-world deployment.
 
 ## 📫 How To Reach Me:
 
-[![Email](https://img.shields.io/badge/Email-yourname%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zongxinlu43@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ling-joker-541476233/)
-[![104](https://img.shields.io/badge/104-Job%20Bank-orange?style=for-the-badge&logo=briefcase&logoColor=white)](https://pda.104.com.tw/profile/edit?vno=75ist35wq)
-
+- 📧 Email: [My @gmail.com](mailto:zongxinlu43@gmail.com)  
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ling-joker-541476233/)  
+- 💼 104: [My 104 Profile](https://pda.104.com.tw/profile/edit?vno=75ist35wq)  
